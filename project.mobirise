@@ -6,12 +6,12 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#f28281",
-        "secondaryColor": "#1e5c07",
-        "successColor": "#90a878",
-        "infoColor": "#7e9b9f",
-        "warningColor": "#f3c649",
-        "dangerColor": "#f28281",
+        "primaryColor": "#553982",
+        "secondaryColor": "#41a85f",
+        "successColor": "#00a885",
+        "infoColor": "#3d8eb9",
+        "warningColor": "#2969b0",
+        "dangerColor": "#553982",
         "titleFont": "Ubuntu",
         "subtitleFont": "Titillium Web",
         "textFont": "PT Sans Narrow",
@@ -220,7 +220,8 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "font-size": "36px"
+              "font-size": "36px",
+              "color": "#ffffff"
             }
           },
           "_tags": [
