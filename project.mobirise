@@ -1,0 +1,127 @@
+{
+  "settings": {
+    "name": "thisisthewaytheworldends",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      }
+    },
+    "versionFirst": "3.10.5",
+    "uniqCompNum": 4,
+    "versionPublish": "3.10.5",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-3",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "&lt;THIS IS THE WAY THE WORLD ENDS&gt;",
+          "text": "/*Not with a &lt;!&gt;. But with a whimper*/",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        }
+      ]
+    },
+    "techglossary.html": {
+      "settings": {},
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-0",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>TECH GLOSSARY</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_styles": {
+            "PRE": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content7-1",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>A-G</p><p><br></p><pre>Build</pre><pre>Also known as \"running\". To take a peice of code and execute its functions.</pre><p><br></p><pre>NEXT TEXT</pre><p><br></p><p><br></p>",
+          "text2": "<p>H-Z</p><p><br></p><pre>HTML</pre><pre><b>HyperText Markup Language</b> &nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">is the standard markup language for creating web pages and web applications. With Cascading Style Sheets (CSS), and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web.[1] Web browsers receive HTML documents from a webserver or from local storage and render them into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document.</span></pre><p><br></p><pre><span style=\"font-size: 1.07rem; line-height: 1.5;\">meta charset</span></pre><pre><span style=\"font-size: 1.07rem; line-height: 1.5;\">It's used to specify the character encoding for the HTML document.</span><br></pre><p><br></p><pre>UTF-8</pre><pre>Can encode all posible characters as defined by unicode.</pre><p><br></p><pre>W3Schools</pre><pre>A popular web site for learning web technologies online. Content includes tutorials and references relating to HTML, CSS, JavaScript, PHP, SQL, Bootstrap, and jQuery. It receives more than 10 million unique visitors monthly.</pre><pre>It can be found   &lt;<a href=\"http://www.w3schools.com/html/\">HERE</a>&gt;</pre><p> </p>",
+          "text3": "<p>OTHER</p><p><br></p><pre>NEXT TEXT</pre><p><br></p><pre>NEXT TEXT</pre><p><br></p><p><br></p>"
+        }
+      ]
+    },
+    "dailyblog.html": {
+      "settings": {},
+      "components": []
+    }
+  }
+}
