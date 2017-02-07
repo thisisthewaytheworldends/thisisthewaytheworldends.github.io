@@ -417,15 +417,18 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #553982;
 }
-#msg-box8-3 .mbr-section-title,
-#msg-box8-3 p {
+#content1-w H2 {
+  font-size: 36px;
+  color: #ffffff;
+}
+#content1-w P {
+  color: #ffffff;
+}
+#msg-box2-x .mbr-section-title {
   color: #fff;
 }
-#msg-box8-3 .mbr-section-title {
-  font-size: 36px;
-}
-#msg-box8-3 .lead {
-  color: #ffffff;
+#msg-box2-x .mbr-section-subtitle {
+  color: #a0a0a0;
 }
 #features7-4 .card-subtitle {
   color: #bcbcbc;
@@ -442,6 +445,98 @@ h6,
   font-size: 36px;
   color: #ffffff;
 }
+#content1-m H2 {
+  font-size: 36px;
+  color: #ffffff;
+}
+#content1-m P {
+  color: #ffffff;
+}
+#msg-box2-n .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-n .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#header3-o .mbr-section-title,
+#header3-o .mbr-section-subtitle {
+  text-align: center;
+}
 #content7-1 PRE {
   text-align: left;
+}
+#content1-8 H2 {
+  font-size: 36px;
+  color: #ffffff;
+}
+#content1-8 P {
+  color: #ffffff;
+}
+#msg-box2-f .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-f .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#header3-9 .mbr-section-title,
+#header3-9 .mbr-section-subtitle {
+  text-align: center;
+}
+#content1-i H2 {
+  font-size: 36px;
+  color: #ffffff;
+}
+#content1-i P {
+  color: #ffffff;
+}
+#msg-box2-j .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-j .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#header3-r .mbr-section-title,
+#header3-r .mbr-section-subtitle {
+  text-align: center;
+}
+#content1-g H2 {
+  font-size: 36px;
+  color: #ffffff;
+}
+#content1-g P {
+  color: #ffffff;
+}
+#msg-box2-h .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-h .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#header3-p .mbr-section-title,
+#header3-p .mbr-section-subtitle {
+  text-align: center;
+}
+#features7-q .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-q .iconbox {
+  background-color: #553982;
+  border-color: #553982;
+}
+#content1-k H2 {
+  font-size: 36px;
+  color: #ffffff;
+}
+#content1-k P {
+  color: #ffffff;
+}
+#msg-box2-l .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-l .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#header3-t .mbr-section-title,
+#header3-t .mbr-section-subtitle {
+  text-align: center;
 }
