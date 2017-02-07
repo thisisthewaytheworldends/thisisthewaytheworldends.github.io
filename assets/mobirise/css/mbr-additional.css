@@ -1,6 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
 
 
 
@@ -8,11 +8,11 @@ body,
 input,
 textarea,
 .mbr-company .list-group-text {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'PT Sans Narrow', sans-serif;
 }
 .mbr-footer-content li,
 .mbr-footer .mbr-contacts li {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'PT Sans Narrow', sans-serif;
 }
 .btn,
 .alert,
@@ -36,7 +36,7 @@ h6,
 .mbr-gallery-title,
 .mbr-map [data-state-details],
 .mbr-price {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
 }
 .mbr-footer-content h1,
 .mbr-footer .mbr-contacts h1,
@@ -50,7 +50,13 @@ h6,
 .mbr-footer .mbr-contacts p strong,
 .mbr-footer-content strong,
 .mbr-footer .mbr-contacts strong {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
+}
+.btn {
+  border-radius: 1.6em;
+}
+.mbr-subscribe .btn {
+  border-radius: 1.6em !important;
 }
 .btn-sm,
 .lead a,
@@ -59,23 +65,26 @@ h6,
 .mbr-section-hero .mbr-section-lead,
 .mbr-cards .card-subtitle,
 .mbr-testimonial .card-block {
-  font-family: 'Lora', serif;
+  font-family: 'Titillium Web', sans-serif;
+  font-style: normal;
 }
 .mbr-author-name {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
 }
 .mbr-author-desc {
-  font-family: 'Lora', serif;
+  font-family: 'Titillium Web', sans-serif;
+  font-style: normal;
 }
 .mbr-plan-title {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
 }
 .mbr-plan-subtitle,
 .mbr-plan-price-desc {
-  font-family: 'Lora', serif;
+  font-family: 'Titillium Web', sans-serif;
+  font-style: normal;
 }
 .bg-primary {
-  background-color: #c0a375 !important;
+  background-color: #f28281 !important;
 }
 .bg-success {
   background-color: #90a878 !important;
@@ -90,8 +99,8 @@ h6,
   background-color: #f28281 !important;
 }
 .btn-primary {
-  background-color: #c0a375;
-  border-color: #c0a375;
+  background-color: #f28281;
+  border-color: #f28281;
   color: #ffffff;
 }
 .btn-primary:hover,
@@ -100,18 +109,18 @@ h6,
 .btn-primary:active,
 .btn-primary.active {
   color: #ffffff;
-  background-color: #a07e49;
-  border-color: #a07e49;
+  background-color: #eb3d3c;
+  border-color: #eb3d3c;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
   color: #ffffff !important;
-  background-color: #a07e49 !important;
-  border-color: #a07e49 !important;
+  background-color: #eb3d3c !important;
+  border-color: #eb3d3c !important;
 }
 .btn-secondary {
-  background-color: #bfcecb;
-  border-color: #bfcecb;
+  background-color: #1e5c07;
+  border-color: #1e5c07;
   color: #ffffff;
 }
 .btn-secondary:hover,
@@ -120,14 +129,14 @@ h6,
 .btn-secondary:active,
 .btn-secondary.active {
   color: #ffffff;
-  background-color: #94ada8;
-  border-color: #94ada8;
+  background-color: #071502;
+  border-color: #071502;
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
   color: #ffffff !important;
-  background-color: #94ada8 !important;
-  border-color: #94ada8 !important;
+  background-color: #071502 !important;
+  border-color: #071502 !important;
 }
 .btn-info {
   background-color: #7e9b9f;
@@ -211,8 +220,8 @@ h6,
 }
 .btn-primary-outline {
   background: none;
-  border-color: #8e7041;
-  color: #8e7041;
+  border-color: #e82625;
+  color: #e82625;
 }
 .btn-primary-outline:hover,
 .btn-primary-outline:focus,
@@ -220,19 +229,19 @@ h6,
 .btn-primary-outline:active,
 .btn-primary-outline.active {
   color: #ffffff;
-  background-color: #c0a375;
-  border-color: #c0a375;
+  background-color: #f28281;
+  border-color: #f28281;
 }
 .btn-primary-outline.disabled,
 .btn-primary-outline:disabled {
   color: #ffffff !important;
-  background-color: #c0a375 !important;
-  border-color: #c0a375 !important;
+  background-color: #f28281 !important;
+  border-color: #f28281 !important;
 }
 .btn-secondary-outline {
   background: none;
-  border-color: #85a29c;
-  color: #85a29c;
+  border-color: #000000;
+  color: #000000;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
@@ -240,14 +249,14 @@ h6,
 .btn-secondary-outline:active,
 .btn-secondary-outline.active {
   color: #ffffff;
-  background-color: #bfcecb;
-  border-color: #bfcecb;
+  background-color: #1e5c07;
+  border-color: #1e5c07;
 }
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
   color: #ffffff !important;
-  background-color: #bfcecb !important;
-  border-color: #bfcecb !important;
+  background-color: #1e5c07 !important;
+  border-color: #1e5c07 !important;
 }
 .btn-info-outline {
   background: none;
@@ -330,7 +339,7 @@ h6,
   border-color: #f28281 !important;
 }
 .text-primary {
-  color: #c0a375 !important;
+  color: #f28281 !important;
 }
 .text-success {
   color: #90a878 !important;
@@ -357,36 +366,36 @@ h6,
   background-color: #f28281;
 }
 .btn-social {
-  border-color: #c0a375;
+  border-color: #f28281;
 }
 .btn-social:hover {
-  background: #c0a375;
+  background: #f28281;
 }
 .mbr-company .list-group-item.active .list-group-text {
-  color: #c0a375;
+  color: #f28281;
 }
 .mbr-footer p a,
 .mbr-footer ul a {
-  color: #c0a375;
+  color: #f28281;
 }
 .mbr-footer-content li::before,
 .mbr-footer .mbr-contacts li::before {
-  background: #c0a375;
+  background: #f28281;
 }
 .mbr-footer-content li a:hover,
 .mbr-footer .mbr-contacts li a:hover {
-  color: #c0a375;
+  color: #f28281;
 }
 .lead a,
 .lead a:hover {
-  color: #c0a375;
+  color: #f28281;
 }
 .lead blockquote {
-  border-color: #c0a375;
+  border-color: #f28281;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
-  color: #e8ddcd;
+  color: #ffffff;
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
@@ -406,10 +415,7 @@ h6,
 }
 .mbr-small-footer a,
 .mbr-gallery-filter li:hover {
-  color: #c0a375;
-}
-.scrollToTop_wraper {
-  opacity: 0 !important;
+  color: #f28281;
 }
 #msg-box8-3 .mbr-section-title,
 #msg-box8-3 p {
@@ -420,6 +426,20 @@ h6,
 }
 #msg-box8-3 .lead {
   color: #ffffff;
+}
+#features7-4 .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-4 .iconbox {
+  background-color: #f28281;
+  border-color: #f28281;
+}
+#social-buttons4-5 .mbr-section-title,
+#social-buttons4-5 .btn-social {
+  color: #fff;
+}
+#social-buttons4-5 .mbr-section-title {
+  font-size: 36px;
 }
 #content7-1 PRE {
   text-align: left;
