@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "thisisthewaytheworldends",
-    "currentPage": "index.html",
+    "currentPage": "pastprojects.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -59,7 +59,7 @@
             "paddingBottom": 1,
             "bgColor": "#282828"
           },
-          "text": "<h2>&lt;THIS IS THE WAY THE WORLD ENDS&gt;</h2><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>/* not with a &lt;!&gt; but with a wimper */</b></p>"
+          "text": "<h2>&lt;THIS IS THE WAY THE WORLD ENDS&gt;</h2><p><b>/* not with a &lt;!&gt; but with a wimper */</b></p>"
         },
         {
           "_styles": {
@@ -293,7 +293,7 @@
             "paddingBottom": 1,
             "bgColor": "#282828"
           },
-          "text": "<h2>&lt;THIS IS THE WAY THE WORLD ENDS&gt;</h2><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>/* not with a &lt;!&gt; but with a wimper */</b></p>"
+          "text": "<h2>&lt;THIS IS THE WAY THE WORLD ENDS&gt;</h2><p><b>/* not with a &lt;!&gt; but with a wimper */</b></p>"
         },
         {
           "_styles": {
@@ -389,7 +389,7 @@
             "paddingBottom": 1,
             "bgColor": "#282828"
           },
-          "text": "<h2>&lt;THIS IS THE WAY THE WORLD ENDS&gt;</h2><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>/* not with a &lt;!&gt; but with a wimper */</b></p>",
+          "text": "<h2>&lt;THIS IS THE WAY THE WORLD ENDS&gt;</h2><p><b>/* not with a &lt;!&gt; but with a wimper */</b></p>",
           "_styles": {
             "H2": {
               "font-size": "36px",
@@ -496,7 +496,7 @@
             "paddingBottom": 1,
             "bgColor": "#282828"
           },
-          "text": "<h2>&lt;THIS IS THE WAY THE WORLD ENDS&gt;</h2><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>/* not with a &lt;!&gt; but with a wimper */</b></p>"
+          "text": "<h2>&lt;THIS IS THE WAY THE WORLD ENDS&gt;</h2><p><b>/* not with a &lt;!&gt; but with a wimper */</b></p>"
         },
         {
           "_styles": {
@@ -594,7 +594,7 @@
             "paddingBottom": 1,
             "bgColor": "#282828"
           },
-          "text": "<h2>&lt;THIS IS THE WAY THE WORLD ENDS&gt;</h2><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>/* not with a &lt;!&gt; but with a wimper */</b></p>"
+          "text": "<h2>&lt;THIS IS THE WAY THE WORLD ENDS&gt;</h2><p><b>/* not with a &lt;!&gt; but with a wimper */</b></p>"
         },
         {
           "_styles": {
@@ -815,7 +815,7 @@
             "paddingBottom": 1,
             "bgColor": "#282828"
           },
-          "text": "<h2>&lt;THIS IS THE WAY THE WORLD ENDS&gt;</h2><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>/* not with a &lt;!&gt; but with a wimper */</b></p>"
+          "text": "<h2>&lt;THIS IS THE WAY THE WORLD ENDS&gt;</h2><p><b>/* not with a &lt;!&gt; but with a wimper */</b></p>"
         },
         {
           "_styles": {
