@@ -125,9 +125,10 @@
               "name": "code",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "currentprojects.html",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "title1": "Current Projects",
@@ -141,9 +142,10 @@
               "name": "sites",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "blog.html",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "title2": "Blog of Everything",
@@ -157,9 +159,10 @@
               "name": "rocket",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "newbguide.html",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "title3": "Newb Guide",
@@ -173,9 +176,10 @@
               "name": "user",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "about.html",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "title4": "About Me",
@@ -284,7 +288,27 @@
         }
       ]
     },
-    "dailyblog.html": {
+    "blog.html": {
+      "settings": {},
+      "components": []
+    },
+    "about.html": {
+      "settings": {},
+      "components": []
+    },
+    "newbguide.html": {
+      "settings": {},
+      "components": []
+    },
+    "currentprojects.html": {
+      "settings": {},
+      "components": []
+    },
+    "pastprojects.html": {
+      "settings": {},
+      "components": []
+    },
+    "futureprojects.html": {
       "settings": {},
       "components": []
     }
