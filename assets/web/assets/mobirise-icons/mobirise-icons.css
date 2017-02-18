@@ -102,7 +102,7 @@
 .mbri-delivery:before {
   content: "\e919";
 }
-.mbri-desctop:before {
+.mbri-desktop:before {
   content: "\e91a";
 }
 .mbri-devices:before {
@@ -112,7 +112,7 @@
   content: "\e91c";
 }
 .mbri-download:before {
-  content: "\e91d";
+  content: "\e972";
 }
 .mbri-drag-n-drop:before {
   content: "\e91e";
@@ -144,10 +144,10 @@
 .mbri-gift:before {
   content: "\e927";
 }
-.mbri-globe-2:before {
+.mbri-globe:before {
   content: "\e928";
 }
-.mbri-globe:before {
+.mbri-globe-2:before {
   content: "\e929";
 }
 .mbri-growing-chart:before {
@@ -309,13 +309,13 @@
 .mbri-share:before {
   content: "\e95e";
 }
-.mbri-shoping-bag:before {
+.mbri-shopping-bag:before {
   content: "\e95f";
 }
-.mbri-shoping-basket:before {
+.mbri-shopping-basket:before {
   content: "\e960";
 }
-.mbri-shoping-cart:before {
+.mbri-shopping-cart:before {
   content: "\e961";
 }
 .mbri-sites:before {
@@ -367,7 +367,7 @@
   content: "\e971";
 }
 .mbri-upload:before {
-  content: "\e972";
+  content: "\e91d";
 }
 .mbri-user:before {
   content: "\e973";
@@ -378,10 +378,10 @@
 .mbri-users:before {
   content: "\e975";
 }
-.mbri-video-play:before {
+.mbri-video:before {
   content: "\e976";
 }
-.mbri-video:before {
+.mbri-video-play:before {
   content: "\e977";
 }
 .mbri-watch:before {
