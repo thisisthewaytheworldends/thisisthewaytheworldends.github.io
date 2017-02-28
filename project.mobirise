@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "thisisthewaytheworldends",
-    "currentPage": "techglossary.html",
+    "currentPage": "currentprojects.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 35,
+    "uniqCompNum": 52,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -37,7 +37,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 1
       },
       "components": [
         {
@@ -272,7 +273,9 @@
       ]
     },
     "techglossary.html": {
-      "settings": {},
+      "settings": {
+        "order": 2
+      },
       "components": [
         {
           "_tags": [
@@ -370,14 +373,16 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p>A-G</p><p><br></p><pre><p><b>Block Level Elements -</b><span style=\"line-height: 1.5;\"> are a type of structure created. to change text within the body of an HTML document. Block level elements can appear in the body of an HTML page. </span><span style=\"line-height: 1.5;\">It can contain another block level as well as inline elements.</span><span style=\"line-height: 1.5;\"> By default, block-level elements begin on new lines.</span><span style=\"line-height: 1.5;\"> block level elements create larger structures (than inline elements).</span></p></pre><pre><ul><li>p</li><li>h1, h2, h3, h4, h5, h6</li><li>ol, ul</li><li>pre</li><li>address</li><li>blockquote</li><li>dl</li><li>div</li><li>fieldset</li><li>form</li><li>hr</li><li>noscript</li><li>Table</li></ul></pre><p><b><br></b></p><pre><b>Build -</b> <span style=\"line-height: 1.5;\">Also known as \"running\". To take a peice of code and execute its functions.</span></pre><p><br></p><pre>NEXT TEXT</pre><p><br></p><p><br></p>",
+          "text1": "<p>A-G</p><p><br></p><pre><p><b style=\"color: inherit; font-size: 1.07rem; line-height: 1.5;\">Abstraction - </b><span style=\"color: inherit; font-size: 1.07rem; line-height: 1.5;\">A simplified representation of something that is potentially quite complex. It is often not necessary to know the exact details of how something works, is represented or is implemented, because we can still make use of it in its simplified form. Object-oriented design often involves finding the right level of abstraction at which to work when modeling real-life objects. If the level is too high, then not enough detail will be captured. If the level is too low, then a program could be more complex and difficult to create and understand than it needs to be.</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"> </span></p><p><b> </b></p><p><b><br></b></p><p><b><br></b></p><p><b>Block Level Elements -</b><span style=\"line-height: 1.5;\"> are a type of structure created. to change text within the body of an HTML document. Block level elements can appear in the body of an HTML page. </span><span style=\"line-height: 1.5;\">It can contain another block level as well as inline elements.</span><span style=\"line-height: 1.5;\"> By default, block-level elements begin on new lines.</span><span style=\"line-height: 1.5;\"> block level elements create larger structures (than inline elements).</span></p></pre><pre><ul><li>p</li><li>h1, h2, h3, h4, h5, h6</li><li>ol, ul</li><li>pre</li><li>address</li><li>blockquote</li><li>dl</li><li>div</li><li>fieldset</li><li>form</li><li>hr</li><li>noscript</li><li>Table</li></ul></pre><p><b><br></b></p><pre><b>Build -</b> <span style=\"line-height: 1.5;\">Also known as \"running\". To take a peice of code and execute its functions.</span></pre><p><br></p><pre>NEXT TEXT</pre><p><br></p><p><br></p>",
           "text2": "<p>H-Z</p><p><br></p><pre><b>HTML -</b> <span style=\"line-height: 1.5;\">HyperText Markup Language</span><span style=\"line-height: 1.5;\"> &nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">is the standard markup language for creating web pages and web applications. With Cascading Style Sheets (CSS), and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web.[1] Web browsers receive HTML documents from a webserver or from local storage and render them into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document. In general, HTML elements can be divided into two categories : block level and inline elements.</span></pre><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">  </span></p><p><br></p><pre><b>Markup Validation Service-</b> its a validator by the World Wide Web Consortium (W3C) that allows Internet users to check HTML and XHTML documents for well-formed markup.</pre><pre>&nbsp;It can be found <a href=\"https://validator.w3.org/#validate_by_input\" target=\"_blank\">&lt;HERE&gt;</a>.</pre><p><br></p><pre><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>meta charset -</b> </span><span style=\"font-size: 1.07rem; line-height: 1.5;\">It's used to specify the character encoding for the HTML document.</span></pre><p><br></p><pre><b>UTF-8 -</b> <span style=\"line-height: 1.5;\">Can encode all posible characters as defined by unicode.</span></pre><p><br></p><pre><b>W3Schools -</b> <span style=\"line-height: 1.5;\">A popular web site for learning web technologies online. Content includes tutorials and references relating to HTML, CSS, JavaScript, PHP, SQL, Bootstrap, and jQuery. It receives more than 10 million unique visitors monthly.</span></pre><pre>It can be found   &lt;<a href=\"http://www.w3schools.com/html/\" target=\"_blank\">HERE</a>&gt;</pre><p> </p>",
           "text3": "<p>OTHER</p><p><br></p><pre>NEXT TEXT</pre><p><br></p><pre>NEXT TEXT</pre><p><br></p><p><br></p>"
         }
       ]
     },
     "blog.html": {
-      "settings": {},
+      "settings": {
+        "order": 4
+      },
       "components": [
         {
           "_tags": [
@@ -470,12 +475,14 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote>There is nothing here yet</blockquote>"
+          "text": "<blockquote><h4>(Not Just an) Everyday Shooter</h4><p>By: Kai Drayton-Yee </p><p>2/27/17 7:37pm</p><p><br></p><p>--</p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;Jonathan Mak’s Everyday Shooter won the first place prize for design and innovation and excellence in audio at the 2007 Independent Games Festival Awards. His sizeable reputation as both an artist and a game designer become apparent as soon as one hits the play button. From the beginning, it is blatantly obvious how much thought Mak has put into the design of his game. To the untrained eye (and ear!), the game play runs almost unnoticably smooth, and the game engages the player and keeps them engaged with its shifting guitar music, and bright colors. The very deliberate way that Mak incorporated his guitar music into Everyday Shooter excites players, and makes them curious to try new things.</p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;Surprisingly, Mak’s choice in music stayed clear and simplistic throughout all of his levels rather than changing with each level. Mak’s deliberate use of only guitar sounds kept the background uncluttered and original. He uses guitar riffs as the background music which, is notable due to the electric guitar not usually being an instrument that plays without accompaniment.  The repetitive riffs are quite the change in pace from the expected fast multi-part rythm based background music that other games of this nature tend to have. This stark difference makes Everyday Shooter stand out musically. Another interesting fact was that Mak himself did the soundtrack. His channeled his interest and skills as a guitarist into his game. It begs the question, did Mak create the game to highlight his guitar skills, or were his guitar skills just used as a platform in which to enhance his game idea?</p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;The basic gameplay of Everyday Shooter is (as referenced in the title) a shooter/bullet-hell style game. This particular genre is generally not hard to figure out in the early levels (literally shoot EVERYTHING), but definitely can ramp-up difficulty wise as the levels progress. While we know that the background stayed simple and intriguing, I think the most important musical aspect of Everyday Shooter is the sound effects. Every time an enemy is hit, a synth-guitar sound is played. In theory this might get lost in the guitar-riff-background-music, but in practice, it does something entirely different. In most of these shooter games, players are used to hearing the obvious correlation between enemy deaths and shooter sounds. Everyday Shooter does not fall into this stereotype. Instead, the synth sounds of the enemies being hit becomes a subconscious type of feedback. This type of feedback might not be obvious (or even noticed at all) for the first little while of gameplay. The player kills enemies, and their brain makes a subconscious connection between the extra note played in the guitar riff.&nbsp;</p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;Instead of the sound effect fading into the background like expected, the player slowly notices the change in the pattern of the guitar riff every time they hit an enemy. This actually brings the background music to the players attention, subtly highlighting the unique auditory choices that Mak made in the guitar-riff themed music. Everyday Shooter uses each portion of its audio to accentuate the others. Mak’s Everyday Shooter won its awards not just for having making elegant, yet simple music choices, but for its successful attempt in creating a unique sound that integrates the gameplay and the audio together to create a single cohesive piece.</p><p><br></p></blockquote>"
         }
       ]
     },
     "about.html": {
-      "settings": {},
+      "settings": {
+        "order": 3
+      },
       "components": [
         {
           "_tags": [
@@ -561,19 +568,68 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "content2",
-          "_anchor": "content2-v",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
           },
-          "text": "<blockquote>There is nothing here.</blockquote>"
+          "_anchor": "msg-box5-1e",
+          "_params": {
+            "imageSize": "34",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img-1400x1050.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "Kai N. Drayton-Yee is a human. More info on that soon.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
     },
     "newbguide.html": {
-      "settings": {},
+      "settings": {
+        "order": 5
+      },
       "components": [
         {
           "_tags": [
@@ -701,7 +757,7 @@
               "name": "paperclip",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "",
+              "link": "https://del.icio.us/kainyame",
               "size": 0,
               "color": "#fff",
               "newWindow": true
@@ -735,7 +791,7 @@
               "name": "github",
               "family": "socicon",
               "active": true,
-              "link": "",
+              "link": "http://github.com/kainyame",
               "size": 0,
               "color": "#fff",
               "newWindow": true
@@ -794,7 +850,9 @@
       ]
     },
     "currentprojects.html": {
-      "settings": {},
+      "settings": {
+        "order": 6
+      },
       "components": [
         {
           "_tags": [
@@ -880,24 +938,268 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "content2",
-          "_anchor": "content2-u",
+          "_name": "content1",
+          "_anchor": "content1-z",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote>There is nothing here.</blockquote>"
+          "text": "<blockquote><p>Dragon Crash (January 2017)</p><p>--</p><p>More Info Coming Soon</p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-11",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p>Oxygen ( December 2016)</p><p>--</p><p>More Info Coming Soon</p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-10",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p>LightIsland (September 2016)</p><p>--</p><p>More Info Coming Soon</p></blockquote>"
         }
       ]
     },
     "pastprojects.html": {
-      "settings": {},
-      "components": []
+      "settings": {
+        "order": 7
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H2": {
+              "font-size": "36px",
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "content1-15",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#282828"
+          },
+          "text": "<h2>&lt;THIS IS THE WAY THE WORLD ENDS&gt;</h2><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>/* not with a &lt;!&gt; but with a wimper */</b></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-16",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#282828",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": false,
+            "showText": false
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a>",
+          "title": "TRENDY WEBSITE BLOCKS",
+          "text": "Cut down the development time with drag-and-drop website builder."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-17",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Past Projects",
+          "meta": "Projects I've worked on."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-18",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p>CORE (July 2016)</p><p>--</p><p>More Info Coming Soon</p></blockquote>"
+        }
+      ]
     },
     "futureprojects.html": {
-      "settings": {},
-      "components": []
+      "settings": {
+        "order": 8
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H2": {
+              "font-size": "36px",
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "content1-12",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#282828"
+          },
+          "text": "<h2>&lt;THIS IS THE WAY THE WORLD ENDS&gt;</h2><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>/* not with a &lt;!&gt; but with a wimper */</b></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-13",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#282828",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": false,
+            "showText": false
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a>",
+          "title": "TRENDY WEBSITE BLOCKS",
+          "text": "Cut down the development time with drag-and-drop website builder."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-19",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Future Projects",
+          "meta": "Things in the near future."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1a",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p>Head (???)</p><p>--</p><p>More Info Coming Soon</p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1b",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p>Vortex (???)</p><p>--</p><p>More Info Coming Soon</p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1f",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p>?? (???)</p><p>--</p><p>More Info Coming Soon</p></blockquote>"
+        }
+      ]
     }
   }
 }

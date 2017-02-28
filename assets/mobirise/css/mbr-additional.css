@@ -482,6 +482,7 @@ h6,
 #header3-9 .mbr-section-subtitle {
   text-align: center;
 }
+
 #content1-i H2 {
   font-size: 36px;
   color: #ffffff;
@@ -498,6 +499,10 @@ h6,
 #header3-r .mbr-section-title,
 #header3-r .mbr-section-subtitle {
   text-align: center;
+}
+#msg-box5-1e P {
+  text-align: left;
+  font-family: 'Titillium Web', sans-serif;
 }
 #content1-g H2 {
   font-size: 36px;
@@ -538,5 +543,39 @@ h6,
 }
 #header3-t .mbr-section-title,
 #header3-t .mbr-section-subtitle {
+  text-align: center;
+}
+#content1-15 H2 {
+  font-size: 36px;
+  color: #ffffff;
+}
+#content1-15 P {
+  color: #ffffff;
+}
+#msg-box2-16 .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-16 .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#header3-17 .mbr-section-title,
+#header3-17 .mbr-section-subtitle {
+  text-align: center;
+}
+#content1-12 H2 {
+  font-size: 36px;
+  color: #ffffff;
+}
+#content1-12 P {
+  color: #ffffff;
+}
+#msg-box2-13 .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-13 .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#header3-19 .mbr-section-title,
+#header3-19 .mbr-section-subtitle {
   text-align: center;
 }
