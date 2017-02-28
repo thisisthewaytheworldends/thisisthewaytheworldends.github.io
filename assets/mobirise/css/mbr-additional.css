@@ -464,6 +464,10 @@ h6,
 }
 #content7-1 PRE {
   text-align: left;
+  font-size: 15px;
+}
+#content7-1 P {
+  font-size: 15px;
 }
 #content1-8 H2 {
   font-size: 36px;
