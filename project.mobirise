@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "thisisthewaytheworldends",
-    "currentPage": "blog.html",
+    "currentPage": "currentprojects.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 52,
+    "uniqCompNum": 56,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -942,6 +942,32 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "content2",
+          "_anchor": "content2-1i",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>SSS (March 2017)</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-1h",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>LeWiz (March 2017)</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "content1",
           "_anchor": "content1-z",
           "_params": {
@@ -962,7 +988,20 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>Oxygen ( December 2016)</p><p>--</p><p>More Info Coming Soon</p></blockquote>"
+          "text": "<blockquote><p>Oxygen ( December 2016)</p><p>--</p><p>Created during the GameHeads GameJam, Oxygen is an adventure-platformer. The player traverses a strage planet in order to find parts for their broken ship!</p><p><br></p><p>Gameplay Demo:&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>HERE</b></span></p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-1j",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>Vortex (September 2017)</blockquote>"
         },
         {
           "_tags": [
