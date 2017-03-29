@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "thisisthewaytheworldends",
-    "currentPage": "currentprojects.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 58,
+    "uniqCompNum": 59,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -627,6 +627,36 @@
           "title": "SOLID COLOR INTRO WITH IMAGE",
           "text": "Kai N. Drayton-Yee is a human. More info on that soon.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "32px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-1m",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW ME",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/Kain_dy\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/kainyame\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/+KaiNyame\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://github.com/kainyame\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-github mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a>       "
         }
       ]
     },
@@ -975,7 +1005,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p><b>LeWiz (March 2017)</b></p><p>--</p><p>Originally an asignment from GameHeads, LeWiz is a fast-paced and immersive RPG where</p><p><br></p><p>Gameplay Demo: http://tinyurl.com/lewiz-game-demo</p></blockquote>"
+          "text": "<blockquote><p><b>LeWiz (March 2017)</b></p><p>--</p><p>Originally an asignment from GameHeads, LeWiz is a fast-paced and immersive RPG where</p><p><br></p><p>Gameplay Demo:<a href=\"http://tinyurl.com/lewiz-game-demo\" target=\"_blank\"> http://tinyurl.com/lewiz-game-demo</a></p></blockquote>"
         },
         {
           "_tags": [
@@ -988,7 +1018,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p><b>Dragon Crash (January 2017)</b></p><p>--</p><p>In collaboration with UCSC, DragonCrash is a B.A.T.H. game where you battle other dragons and collect gems in this epic arena to become the champion!</p><p><br></p><p>DragonCrash Website: &nbsp;http://dragoncrash.iversen.site/</p></blockquote>"
+          "text": "<blockquote><p><b>Dragon Crash (January 2017)</b></p><p>--</p><p>In collaboration with UCSC, DragonCrash is a B.A.T.H. game where you battle other dragons and collect gems in this epic arena to become the champion!</p><p><br></p><p>DragonCrash Website: &nbsp;<a href=\"http://dragoncrash.iversen.site/\" target=\"_blank\">http://dragoncrash.iversen.site/</a></p></blockquote>"
         },
         {
           "_tags": [
@@ -1001,7 +1031,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p><b>Oxygen ( December 2016)</b></p><p>--</p><p>Created during the GameHeads GameJam, Oxygen is an adventure-platformer. The player traverses a strage planet in order to find parts for their broken ship!&nbsp;</p><p><br></p><p>Gameplay Demo: http://tinyurl.com/oxygen-game-demo</p></blockquote>"
+          "text": "<blockquote><p><b>Oxygen ( December 2016)</b></p><p>--</p><p>Created during the GameHeads GameJam, Oxygen is an adventure-platformer. The player traverses a strage planet in order to find parts for their broken ship!&nbsp;</p><p><br></p><p>Gameplay Demo: <a href=\"http://tinyurl.com/oxygen-game-demo\" target=\"_blank\">http://tinyurl.com/oxygen-game-demo</a></p></blockquote>"
         },
         {
           "_tags": [
@@ -1114,7 +1144,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p><b>CORE (July 2016)</b></p><p>--</p><p>Designed and shipped with the help of the MakeSchool, CORE is a fast-pased puzzle game where you hack your way into the top secred database before the time runs out! It is currently out on the AppStore for IOS.</p><p><br></p><p>Gameplay Demo:&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">http://tinyurl.com/core-game-kai-demo</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Get the App Here: http:tinyurl.com/core-game-kai</span></p></blockquote>"
+          "text": "<blockquote><p><b>CORE (July 2016)</b></p><p>--</p><p>Designed and shipped with the help of the MakeSchool, CORE is a fast-pased puzzle game where you hack your way into the top secred database before the time runs out! It is currently out on the AppStore for IOS.</p><p><br></p><p>Gameplay Demo:&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"http://tinyurl.com/core-game-kai-demo\" target=\"_blank\">http://tinyurl.com/core-game-kai-demo</a></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Get the App Here: <a href=\"http:tinyurl.com/core-game-kai\" target=\"_blank\">http:tinyurl.com/core-game-kai</a></span></p></blockquote>"
         },
         {
           "_tags": [
@@ -1127,7 +1157,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p><b>EldersTale510 (September 2014)</b></p><p>--</p><p>Originally created at Code510, EldersTale510 is a fun and engaging adventure RPG where you explore a new world and defeat your enemies! It is free to play online.</p><p><br></p><p>EldersTale510 WebsiteL http://tinyurl.com/elderstale510website</p><p>Play EldersTale510:http://tinyurl.com/elderstale510playgame</p></blockquote>"
+          "text": "<blockquote><p><b>EldersTale510 (September 2014)</b></p><p>--</p><p>Originally created at Code510, EldersTale510 is a fun and engaging adventure RPG where you explore a new world and defeat your enemies! It is free to play online.</p><p><br></p><p>EldersTale510 Website: <a href=\"http://tinyurl.com/elderstale510website\" target=\"_blank\">http://tinyurl.com/elderstale510website</a></p><p>Play EldersTale510: <a href=\"http://tinyurl.com/elderstale510playgame\" target=\"_blank\">http://tinyurl.com/elderstale510playgame</a></p></blockquote>"
         }
       ]
     },

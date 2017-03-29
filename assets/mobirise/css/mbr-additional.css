@@ -508,6 +508,13 @@ h6,
   text-align: left;
   font-family: 'Titillium Web', sans-serif;
 }
+#social-buttons4-1m .mbr-section-title,
+#social-buttons4-1m .btn-social {
+  color: #fff;
+}
+#social-buttons4-1m .mbr-section-title {
+  font-size: 32px;
+}
 #content1-g H2 {
   font-size: 36px;
   color: #ffffff;
