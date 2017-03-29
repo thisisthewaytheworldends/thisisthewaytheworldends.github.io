@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 56,
+    "uniqCompNum": 58,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -914,7 +914,7 @@
             "showTitle": false,
             "showText": false
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a> ",
           "title": "TRENDY WEBSITE BLOCKS",
           "text": "Cut down the development time with drag-and-drop website builder."
         },
@@ -935,8 +935,21 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Current Projects",
-          "meta": "What I'm working on presently."
+          "title": "<a href=\"pastprojects.html\">←</a> Current Projects <a href=\"futureprojects.html\">→</a>",
+          "meta": "What I'm working on presently.&nbsp;"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-1l",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><b>Zoram's Journey (March 2017)</b></p><p>--</p><p>More Info Coming Soon</p></blockquote>"
         },
         {
           "_tags": [
@@ -988,20 +1001,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p><b>Oxygen ( December 2016)</b></p><p>--</p><p>Created during the GameHeads GameJam, Oxygen is an adventure-platformer. The player traverses a strage planet in order to find parts for their broken ship!</p><p><br></p><p>Gameplay Demo: http://tinyurl.com/oxygen-game-demo</p></blockquote>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-1j",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<blockquote><p><b>Vortex (September 2017)</b></p><p>--</p><p>More Info Coming Soon</p></blockquote>"
+          "text": "<blockquote><p><b>Oxygen ( December 2016)</b></p><p>--</p><p>Created during the GameHeads GameJam, Oxygen is an adventure-platformer. The player traverses a strage planet in order to find parts for their broken ship!&nbsp;</p><p><br></p><p>Gameplay Demo: http://tinyurl.com/oxygen-game-demo</p></blockquote>"
         },
         {
           "_tags": [
@@ -1100,7 +1100,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Past Projects",
+          "title": "Past Projects <a href=\"currentprojects.html\">→</a>",
           "meta": "Projects I've worked on."
         },
         {
@@ -1114,7 +1114,20 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>CORE (July 2016)</p><p>--</p><p>More Info Coming Soon</p></blockquote>"
+          "text": "<blockquote><p><b>CORE (July 2016)</b></p><p>--</p><p>Designed and shipped with the help of the MakeSchool, CORE is a fast-pased puzzle game where you hack your way into the top secred database before the time runs out! It is currently out on the AppStore for IOS.</p><p><br></p><p>Gameplay Demo:&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">http://tinyurl.com/core-game-kai-demo</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Get the App Here: http:tinyurl.com/core-game-kai</span></p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-1k",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><b>EldersTale510 (September 2014)</b></p><p>--</p><p>Originally created at Code510, EldersTale510 is a fun and engaging adventure RPG where you explore a new world and defeat your enemies! It is free to play online.</p><p><br></p><p>EldersTale510 WebsiteL http://tinyurl.com/elderstale510website</p><p>Play EldersTale510:http://tinyurl.com/elderstale510playgame</p></blockquote>"
         }
       ]
     },
@@ -1200,7 +1213,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Future Projects",
+          "title": "<a href=\"currentprojects.html\">←</a>&nbsp;Future Projects",
           "meta": "Things in the near future."
         },
         {
@@ -1214,7 +1227,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>Head (???)</p><p>--</p><p>More Info Coming Soon</p></blockquote>"
+          "text": "<blockquote><p>Treasure Hunt (???)</p><p>--</p><p>More Info Coming Soon</p></blockquote>"
         },
         {
           "_tags": [
