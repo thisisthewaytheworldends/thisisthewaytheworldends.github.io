@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "thisisthewaytheworldends",
-    "currentPage": "about.html",
+    "currentPage": "newbguide.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -791,7 +791,7 @@
               "name": "paperclip",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://del.icio.us/kainyame",
+              "link": "https://papaly.com/kainyame",
               "size": 0,
               "color": "#fff",
               "newWindow": true
