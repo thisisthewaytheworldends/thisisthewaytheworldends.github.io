@@ -949,7 +949,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote>SSS (March 2017)</blockquote>"
+          "text": "<blockquote><p><b>SSSS (March 2017)</b></p><p>--</p><p>&nbsp;The Super Secret Spy School is a text based action game where you hack alongside your snarky assistant as you protect the world from evil.</p></blockquote>"
         },
         {
           "_tags": [
@@ -962,7 +962,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote>LeWiz (March 2017)</blockquote>"
+          "text": "<blockquote><p><b>LeWiz (March 2017)</b></p><p>--</p><p>Originally an asignment from GameHeads, LeWiz is a fast-paced and immersive RPG where</p><p><br></p><p>Gameplay Demo: http://tinyurl.com/lewiz-game-demo</p></blockquote>"
         },
         {
           "_tags": [
@@ -975,7 +975,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>Dragon Crash (January 2017)</p><p>--</p><p>More Info Coming Soon</p></blockquote>"
+          "text": "<blockquote><p><b>Dragon Crash (January 2017)</b></p><p>--</p><p>In collaboration with UCSC, DragonCrash is a B.A.T.H. game where you battle other dragons and collect gems in this epic arena to become the champion!</p><p><br></p><p>DragonCrash Website: &nbsp;http://dragoncrash.iversen.site/</p></blockquote>"
         },
         {
           "_tags": [
@@ -988,7 +988,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>Oxygen ( December 2016)</p><p>--</p><p>Created during the GameHeads GameJam, Oxygen is an adventure-platformer. The player traverses a strage planet in order to find parts for their broken ship!</p><p><br></p><p>Gameplay Demo:&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>HERE</b></span></p></blockquote>"
+          "text": "<blockquote><p><b>Oxygen ( December 2016)</b></p><p>--</p><p>Created during the GameHeads GameJam, Oxygen is an adventure-platformer. The player traverses a strage planet in order to find parts for their broken ship!</p><p><br></p><p>Gameplay Demo: http://tinyurl.com/oxygen-game-demo</p></blockquote>"
         },
         {
           "_tags": [
@@ -1001,7 +1001,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote>Vortex (September 2017)</blockquote>"
+          "text": "<blockquote><p><b>Vortex (September 2017)</b></p><p>--</p><p>More Info Coming Soon</p></blockquote>"
         },
         {
           "_tags": [
@@ -1014,7 +1014,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>LightIsland (September 2016)</p><p>--</p><p>More Info Coming Soon</p></blockquote>"
+          "text": "<blockquote><p><b>LightIsland (September 2016)</b></p><p>--</p><p>Created in Code510, LightIsland is an adventure RPG where you play as the flamingo Jurkin as he explores a brand new world and has lots of fun with his strange band of friends.</p><p><br></p></blockquote>"
         }
       ]
     },
