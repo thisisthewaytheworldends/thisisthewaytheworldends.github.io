@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "thisisthewaytheworldends",
-    "currentPage": "futureprojects.html",
+    "currentPage": "blog.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 66,
+    "uniqCompNum": 53,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -70,6 +70,12 @@
             },
             ".mbr-section-subtitle": {
               "color": "#a0a0a0"
+            },
+            ".mbr-header .mbr-header__text": {
+              "color": "#252525"
+            },
+            ".mbr-article": {
+              "color": "#252525"
             }
           },
           "_tags": [
@@ -268,7 +274,7 @@
             "overlayColor": "#222"
           },
           "text": "FOLLOW ME",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/KaiN_DY\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>     <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/kainyame/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"http://www.piskelapp.com/user/5408554024435712\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"etl-icon icon-grid mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 15px;\"></span></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"https://github.com/KaiNyame\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-github mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a> "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/KaiN_DY\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-google\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/kainyame/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"https://github.com/KaiNyame\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-github mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a> "
         }
       ]
     },
@@ -380,37 +386,6 @@
           "text1": "<p> </p><p>A - I</p><p><br></p><pre><b>Abstraction -</b> A simplified representation of something that is potentially quite complex. It is often not necessary to know the exact details of how something works, is represented or is implemented, because we can still make use of it in its simplified form. Object-oriented design often involves finding the right level of abstraction at which to work when modeling real-life objects. If the level is too high, then not enough detail will be captured. If the level is too low, then a program could be more complex and difficult to create and understand than it needs to be.</pre><p>&nbsp;</p><pre><b>API -</b> The Application Programming Interface. A set of definitions that you can make use of in writing programs. In the context of Java, these are the packages, classes, and interfaces that can be used to build complex applications without having to create everything from scratch.</pre><p><br></p><pre><b>Argument -</b> Information passed to a method. Arguments are also sometimes called parameters. A method expecting to receive arguments must contain a formal argument declaration for each as part of its method header. When a method is called, the actual argument values are copied into the corresponding formal arguments.</pre><p><br></p><p><br></p><pre><b>Array -</b> A fixed-size object that can hold zero or more items of the array's declared type.</pre><p><br></p><pre><b>Attribute -</b> A particular usage of an instance variable. The set of attribute values held in a particular instance of a class define the current state of that instance. A class definition may impose particular constraints on the valid states of its instances by requiring that a particular attribute, or set of attributes, do not take on particular values. For instance, attributes holding coursework marks for a class should not hold negative values. Attributes should be manipulated by accessor and mutator methods.</pre><p><br></p><pre><b>Behavior -</b>&nbsp;<span style=\"line-height: 1.5;\">The methods of a class implement its behavior. A particular object's behavior is a combination of the method definitions of its class and the current state of the object.</span></pre><p><br></p><pre><b>Block Level Elements -</b> are a type of structure created. to change text within the body of an HTML document. Block level elements can appear in the body of an HTML page. It can contain another block level as well as inline elements. By default, block-level elements begin on new lines. block level elements create larger structures (than inline elements).</pre><pre><ul><li>p&nbsp;</li><li><span style=\"line-height: 1.5;\">h1, h2, h3, h4, h5, h6&nbsp;</span></li><li><span style=\"line-height: 1.5;\">ol, ul</span></li><li><span style=\"line-height: 1.5;\">pre</span></li><li><span style=\"line-height: 1.5;\">address&nbsp;</span></li><li><span style=\"line-height: 1.5;\">blockquote&nbsp;</span></li><li><span style=\"line-height: 1.5;\">dl&nbsp;</span></li><li><span style=\"line-height: 1.5;\">div&nbsp;</span></li><li><span style=\"line-height: 1.5;\">fieldset</span></li><li><span style=\"line-height: 1.5;\">form</span></li><li><span style=\"line-height: 1.5;\">hr&nbsp;</span></li><li><span style=\"line-height: 1.5;\">noscript&nbsp;</span></li><li><span style=\"line-height: 1.5;\">Table</span></li></ul></pre><p><br></p><pre><b>Boolean -</b>&nbsp;<span style=\"line-height: 1.5;\">One of Java's primitive types. The boolean type has only two values: true and false.</span></pre><p><br></p><pre><b>Bounds -</b>&nbsp;<span style=\"line-height: 1.5;\">The limits of an array or collection. In Java, the lower limit is always zero. In the case of an array, the upper bound is one less than then length of the array, and is fixed. Indexing outside the bounds of an array or collection will result in an IndexOutOfBoundsException exception being thrown.</span></pre><p><br></p><pre><b>Build -</b> Also known as \"running\". To take a peice of code and execute its functions.</pre><p><br></p><pre><span style=\"line-height: 1.5;\"><b>CPU -</b> The Central Processing Unit is the heart of a computer as it is the part that contains the computer's ability to obey instructions. Each type of CPU has its own instruction set.</span></pre><p><br></p><pre><b>Class -</b>&nbsp;<span style=\"line-height: 1.5;\">A programming language concept that allows data and methods to be grouped together. The class concept is fundamental to the notion of an object-oriented programming language. The methods of a class define the set of permitted operations on the class's data (its attributes). This close tie between data and operations means that an instance of a class - an object - is responsible for responding to messages received via its defining class's methods.</span></pre><p><br></p><pre><b>Class Constant -</b>&nbsp;<span style=\"line-height: 1.5;\">A variable defined as both final and static.</span></pre><p><br></p><pre><b>Class Inheritance -</b> <span style=\"line-height: 1.5;\">When a super class is extended by a sub class, a class inheritance relationship exists between them. The sub class inherits the methods and attributes of its super class. In Java, class inheritance is single inheritance. See interface inheritance for an alternative form of inheritance.</span></pre><p><br></p><pre><b>Class Method -&nbsp;</b><span style=\"line-height: 1.5;\">A synonym for static method.</span></pre><p><br></p><pre><b>Comment -</b>&nbsp;<span style=\"line-height: 1.5;\">A piece of text intended for the human reader of a program. Compilers ignore their contents.</span></pre><p><br></p><pre><b>Compiler -&nbsp;</b><span style=\"line-height: 1.5;\">A program which performs a process of compilation on a program written in a high level programming language.</span></pre><p><br></p><pre><b>Constant -</b>&nbsp;<span style=\"line-height: 1.5;\">A variable whose value may not be changed. In Java, these are implemented by final variables.</span></pre><p><br></p><pre><b>Constructor -</b> Something automatically called when an instance of its class is created. A constructor always has the same name as its class, and has no return type. For instance</pre><pre>public class Ship {</pre><pre>&nbsp; &nbsp; public Ship(String name){</pre><pre>&nbsp; &nbsp; }</pre><pre>}</pre><pre>A class with no explicit constructor has an implicit no-arg constructor, which takes no arguments and has an empty body.</pre><p><br></p><pre><span style=\"line-height: 1.5;\"><b>Data Type -</b>&nbsp;</span><span style=\"line-height: 1.5;\">There are eight primitive data types in Java; five of these represent numerical types of varying range and precision - double, float, int, long and short. The remaining three are used to representing single-bit values (boolean), single byte values (byte) and two-byte characters from the ISO Unicode character set (char).</span></pre><p><br></p><pre><b>Exception -</b>&nbsp;<span style=\"line-height: 1.5;\">An object representing the occurrence of an exceptional circumstance - typically, something that has gone wrong in the smooth running of a program. Exception objects are created from classes that extend the Throwable class. See checked exception and unchecked exception.</span></pre><p><br></p><pre><b>Expression -</b>&nbsp;<span style=\"line-height: 1.5;\">A combination of operands and operators that produces a resulting value. Expressions have a resulting type, that affects the context in which they may be used. See boolean expression and arithmetic expression, for instance.</span></pre><p><br></p><pre><b>For Loop -</b>&nbsp;<span style=\"line-height: 1.5;\">One of Java's three control structures used for looping. The other two are the while loop and do loop. A for loop consists of a loop header and a loop body. The header consists of three expressions separated by two semicolons and one or more of these may be omitted. The first expression is only evaluated once, at the point the loop is entered. The middle expression is a boolean expressionrepresenting the loop's termination test. An empty expression represents the value true. The third expression is evaluated after each completion of the loop's body. The loop terminates when the termination test gives the value false. The statements in the loop body might be executed zero or more times.</span></pre><p><br></p><pre><b>GUI -</b>&nbsp;<span style=\"line-height: 1.5;\">A Graphical User Interface is part of a program that allows user interaction via graphical components, such as menus, buttons, text areas, etc. Interaction often involves use of a mouse.</span></pre><p><br></p><pre><b>High Level Programming Language -&nbsp;</b><span style=\"line-height: 1.5;\">Languages such as Java, C++, Ada, etc. which provide programmers with features such as control structures, methods, classes, packages, etc. These features are largely independent of any particularinstruction set, and hence programs written in these languages tend to be more portable than those written in low level programming languages.</span></pre><p><br></p><pre><b>HTTP -</b>&nbsp;<span style=\"line-height: 1.5;\">The HyperText Transfer Protocol is a set of rules defined to enable a Web client (browser) to interact with a Web server.</span></pre><pre><span style=\"line-height: 1.5;\"><br></span></pre><p><br></p><p><br></p><pre><b>Identifier -</b> A programmer-defined name for a variable, method, class or interface.</pre><p><br></p><pre><b>If-Else Statement -</b> A control structure used to choose between performing one of two alternative actions.It is controlled by a boolean expression.&nbsp;</pre><p><br></p><pre><b>Immutable Object -</b> An object whose state may not be changed. Objects of the String class are immutable, for instance - their length and contents are fixed once created.</pre><p><br></p><pre><b>Implicit Type Conversion -</b> Type conversion that does not require a cast. Implicit type conversions typically do not involve any loss of information. For instance, combining an integer operand with a floating point operand in an arithmetic expression will result in an implicit type conversion of the integer to an equivalent floating point value.</pre><p><br></p><pre><b>Increment Operator -</b> An operator (++) that adds one to its operand. It has two forms: pre-increment (++x) and post-increment (x++). In its pre-increment form, the result of the expression is the value of its argument after the increment. In its post-increment form, the result is the value of its argument before the increment is performed. After the following,</pre><pre>int a = 5, b = 5;</pre><pre>int y,z;</pre><pre>y = ++a;</pre><pre>z = b++</pre><pre>y has the value 6 and z has the value 5. Both a and b have the value 6.</pre><p><br></p><p><br></p><pre><b>Infinite Loop -</b> A loop whose termination test never evaluates to false. Sometimes this is a deliberate act on the part of the programmer, using a construct such as</pre><pre>&nbsp; &nbsp;while(true) ...</pre><pre>or</pre><pre>&nbsp; &nbsp;for( ; ; ) ...</pre><pre>but it can sometimes be the result of a logical error in the programming of a normal loop condition or the statements in the body of the loop.</pre>",
           "text2": "<p>I - R</p><p><br></p><pre><span style=\"line-height: 1.5;\"><b>Infinite Recursion -</b> Recursion that does not terminate. This can result from any of direct recursion, indirect recursion or mutual recursion. It is usually the result of a logical error, and can result in stack overflow.</span></pre><p><br></p><pre><b>Inheritance -</b> A feature of object-oriented programming languages in which a sub type inherits methods and variables from its super type. Inheritance is most commonly used as a synonym for class inheritance{class!inheritance}, but interface inheritance is also a feature of some languages, including Java.</pre><p><br></p><pre><b>Inheritance Hierarchy -</b> The relationship between super classes and sub classes is known as an inheritance hierarchy. Single inheritance of classes means that each class has only a single `parent' class and that the Object class is the ultimate ancestor of all classes - at the top of the hierarchy. Two classes that have the same immediate super class can be thought of as sibling sub classes. Multiple inheritance of interfaces gives the hierarchy a more complex structure than that resulting from simple class inheritance.</pre><p><br></p><pre><b>Initializer -</b> A block defined at the outermost level of a class - similar to a method without a header. Initializer blocks are executed, in order, when an instance is created. They are executed before the constructor of the defining class, but after any super class constructor. They are one of the places in which blank final variables may be initialized.</pre><p><br></p><pre><b>Inner Class -</b> A class defined inside an enclosing class or method. We use the term to refer to non-static nested classes.</pre><p><br></p><pre><b>Instance -</b> A synonym for object. Objects of a class are instantiated when a class constructor is invoked via the new operator.</pre><p><br></p><pre><b>Instance Variable -</b> A non-static field of a class. Each individual object of a class has its own copy of such a field. This is in contrast to a class variable which is shared by all instances of the class. Instance variables are used to model the attributes of a class.</pre><p><br></p><pre><b>IP Address -</b> An Internet Protocol (IP) address for a networked computer. Currently, IP addresses consist of four byte values, written in dotted decimal notation, such as 129.12.0.1. In future, IP addresses will be sixteen bytes long to accommodate the expansion in the number of networked computers.</pre><p><br></p><pre><b>Iteration -</b> Repetition of a set of statements, usually using a looping control structure, such as a while loop, for loop or do loop.</pre><p><br></p><pre><b>Java -</b>&nbsp;<span style=\"line-height: 1.5;\">A portable high level programming language released by Sun Microsystems.</span></pre><p><br></p><pre><b>Local Variable -</b>&nbsp;<span style=\"line-height: 1.5;\">A variable defined inside a method body.</span></pre><p><br></p><pre><b>Loop Variable -</b>&nbsp;<span style=\"line-height: 1.5;\">A variable used to control the operation of a loop, such as a for loop. Typically, a loop variable will be given an initial value and it is then incremented after each iteration until it reaches or passes a terminating value.</span></pre><p><br></p><pre><b>Low Level Programming Languages -&nbsp;</b><span style=\"line-height: 1.5;\">Often known as `assembly languages', these provide little more than the basic instruction set of a particular Central Processing Unit. Hence programs written in low level programming languages tend to be less portable than those written in high level languages.</span></pre><p><br></p><pre><b>Memory Leak -</b>&nbsp;<span style=\"line-height: 1.5;\">A situation in which memory that is no longer being used has not been returned to the pool of free memory. A garbage collector is designed to return unreferenced objects to the free memory pool in order to avoid memory leaks.</span></pre><p><br></p><pre><b>Method -</b>&nbsp;<span style=\"line-height: 1.5;\">The part of a class definition that implements some of the behavior of objects of the class. The body of the method contains declarations of local variables and statements to implement the behavior. A method receives input via its arguments, if any, and may return a result if it has not been declared as void.</span></pre><p><br></p><pre><b>Method Overriding -</b>&nbsp;<span style=\"line-height: 1.5;\">A method defined in a super class may be overridden by a method of the same name defined in a sub class. The two methods must have the same name and number and types of formal arguments. Any checked exception thrown by the sub class version must match the type of one thrown by the super class version, or be a sub class of such an exception. However, the sub class version does not have to throw any exceptions that are thrown by the super class version. It is important to distinguish between method overriding and method overloading. Overloaded methods have the same names, but differ in their formal arguments. See overriding for breadth, overriding for chaining and overriding for restriction.</span></pre><p><br></p><pre><b>Method Result -</b>&nbsp;<span style=\"line-height: 1.5;\">The value returned from a method via a return statement. The type of the expression in the return statement must match the return type declared in the method header.</span></pre><p><br></p><pre><b>Modem -</b>&nbsp;<span style=\"line-height: 1.5;\">A modulator-demodulator. A hardware device used to connect a digital computer to an analogue telephone network by turning analogue signals into digital signals, and vice versa.</span></pre><p><br></p><pre><b>Module -</b>&nbsp;<span style=\"line-height: 1.5;\">A group of program components, typically with restricted visibility to program components in other modules. Java uses packages to implement this concept.</span></pre><p><br></p><pre><b>Monitor -</b>&nbsp;<span style=\"line-height: 1.5;\">An object with one or more synchronized methods.</span></pre><p><br></p><pre><b>Multiple Inheritance -</b> The ability of a class or interface to extend more than one class or interface. In Java, multiple inheritance is only available in the following circumstances</pre><pre><ul><li>An interface may extend more than one interface.</li></ul></pre><pre><ul><li>A class may implement more than one interface.</li></ul></pre><pre><ul><li>Only single inheritance is possible for a class extending another class.</li></ul></pre><pre><br></pre><p><br></p><pre><b>Null -</b> a In computing, a null pointer has a value reserved for indicating that the pointer does not refer to a valid object. Programs routinely use null pointers to represent conditions such as the end of a list of unknown length or the failure to perform some action; this use of null pointers can be compared to nullable types and to the Nothing value in an option type. <span style=\"line-height: 1.5;\">Null pointers have different semantics than null values. A null pointer in most programming languages means \"no value\", while a null value in a relational database means \"unknown value\". This leads to important differences in practice: most programming languages will treat two null pointers as equal, but a relational database engine does not regard two null values as equal (since they represent unknown values, it is unknown whether they are equal).</span></pre><p><br></p><pre><b>Object -</b> An instance of a particular class. In general, any number of objects may be constructed from a class definition (see singleton, however). The class to which an object belongs defines the general characteristics of all instances of that class. Within those characteristics, an object will behave according to the current state of its attributes and environment.</pre><p><br></p><pre><b>Object Construction -</b> The creation of an object, usually via the new operator. When an object is created, an appropriate constructor from its class is invoked.</pre><p><br></p><pre><b>Object-Oreinted Language - </b>Programming languages such as C++ and Java that allow the solution to a problem to be expressed in terms of objects which belong to classes.</pre><p><br></p><pre><b>Operand -</b> An operand is an argument of an operator. Expressions involve combinations of operators and operands. The value of an expression is determined by applying the operation defined by each operator to the value of its operands.</pre><p><br></p><pre><b>Operator -</b> A symbol, such as -, == or ?: taking one, two or three operands and yielding a result. Operators are used in both arithmetic expressions and boolean expressions.</pre><p><br></p><pre><b>Package -</b> A named grouping of classes and interfaces that provides a package namespace. Classes, interfaces and class members without an explicit public, protected or private access modifier{access!modifier} have package visibility. Public classes and interfaces may be imported into other packages via an import statement.</pre><p><br></p><pre><b>Pixel -</b> A picture element, typically a colored dot on a screen.</pre><p><br></p><pre><b>Primitive Type -</b> Java's eight standard non-class types are primitive types: boolean, byte, char, double, float, int, long and short.</pre><p><br></p><pre><b>Protocol -</b> A set of rules for interaction between two processes. A protocol is usually specified in a Uniform Resource Locator (URL) to indicate how a particular resource should be transferred from a Web server to the requesting client.</pre><p><br></p><pre><b>Punctuation -</b> Symbols such as commas and semicolons, which a compiler uses to understand the structure of a program.</pre><p><br></p><pre><b>Recursion - </b>Results from a method being invoked when an existing call to the same method has not yet returned. For instance</pre><pre>public static void countDown(int n){</pre><pre>&nbsp; &nbsp; if(n &gt;= 0){</pre><pre>&nbsp; &nbsp; &nbsp; &nbsp; System.out.println(n);</pre><pre>&nbsp; &nbsp; &nbsp; &nbsp; countDown(n-1);</pre><pre>&nbsp; &nbsp; }</pre><pre>&nbsp; &nbsp; // else - base case. End of recursion.</pre><pre>}</pre><pre>See direct recursion, indirect recursion and mutual recursion for the different forms this can take.</pre><p><br></p><pre><b>Relative Filename -</b> A filename whose full path is relative to some point within a file system tree - often the current working folder (directory). For instance</pre><pre>../bin/javac.exe</pre><pre>A relative filename could refer to different files at different times, depending upon the context in which it is being used. See absolute filename.</pre><p> </p>",
           "text3": "<p>R - Z</p><p><br></p><pre><b>Return Statement -</b> A statement used to terminate the execution of a method. A method with void return type may only have return statements of the following form</pre><pre>return;</pre><pre>A method with any other return type must have at least one return statement of the form</pre><pre>return expression;</pre><pre>where the type of expression must match the return type of the method.</pre><p><br></p><pre><b>Return Type -</b> The declared type of a method, appearing immediately before the method name, such as void in</pre><pre>public static void main(String[] args)</pre><pre>or Point[] in</pre><pre>public Point[] getPoints()</pre><p><br></p><pre><b>RGB Color Model -</b> A color model based upon representing a color as three components: red, green and blue. See HSB Color Model.</pre><p><br></p><pre><span style=\"line-height: 1.5;\"><b>Scope -</b>&nbsp;</span><span style=\"line-height: 1.5;\">A language's scope rules determine how widely variables, methods and classes are visible within a class or program. Local variables have a scope limited to the block in which they are defined, for instance. Private methods and variables have class scope, limiting their accessibility to their defining class. Java provides private, package, protected and public visibility.</span><br></pre><p><br></p><pre><b>Search Path -</b>&nbsp;<span style=\"line-height: 1.5;\">A list of folders (directories) to be searched - for a program or class, for instance.</span></pre><p><br></p><pre><b>Single Inheritance -</b>&nbsp;<span style=\"line-height: 1.5;\">In Java, a class may not extend more than one class. This means that Java has a single inheritance model for class inheritance. See multiple inheritance for the alternative.</span></pre><p><br></p><pre><b>Stack Overflow -</b>&nbsp;<span style=\"line-height: 1.5;\">Stack overflow occurs when too many items are pushed onto a stack with a finite capacity.</span></pre><p><br></p><pre><b>State -</b>&nbsp;<span style=\"line-height: 1.5;\">The current state of an object is represented by the combined values of its attributes. Protecting the state of an object from inappropriate inspection or modification is an important aspect of class design and we recommend the use of accessor methods and mutator methods to facilitate attribute protection and integrity. The design of a class is often an attempt to model the states of objects in the real-world. Unless there is a good match between the data types available in the language and the states to be modeled, class design may be complex. An important principle in class design is to ensure that an object is never put into an inconsistent state by responding to a message.</span></pre><p><br></p><pre><b>Statement -</b>&nbsp;<span style=\"line-height: 1.5;\">The basic building block of a Java method. There are many different types of statement in Java, for instance, the assignment statement, if statement, return statement and while loop.</span></pre><p><br></p><pre><b>Statement Terminator -</b>&nbsp;<span style=\"line-height: 1.5;\">The semicolon (;) is used to indicate the end of a statement.</span></pre><p><br></p><pre><b>Static Initializer -</b>&nbsp;<span style=\"line-height: 1.5;\">An initializer prefixed with the static reserved word. A static initializer is defined outside the methods of its enclosing class, and may only access the static fields and methods of its enclosing class.</span></pre><p><br></p><pre><b>Static Method -</b>&nbsp;<span style=\"line-height: 1.5;\">A static method (also known as a class method) is one with the static reserved word in its header. Static methods differ from all other methods in that they are not associated with any particular instance of the class to which they belong. They are usually accessed directly via the name of the class in which they are defined.</span></pre><p><br></p><pre><b>Static Nested Class -</b>&nbsp;<span style=\"line-height: 1.5;\">A nested class with the static reserved word in its header. Unlike inner classes, objects of static nested classes have no enclosing object. They are also known as nested top-level classes.</span></pre><p><span style=\"line-height: 1.5;\"><br></span></p><pre><b>Static Type -</b>&nbsp;<span style=\"line-height: 1.5;\">The static type of an object is the declared type of the variable used to refer to it. See dynamic type.</span></pre><p><br></p><pre><b>Static Variable -</b>&nbsp;<span style=\"line-height: 1.5;\">A static variable defined inside a class body. Such a variable belongs to the class as a whole, and is, therefore, shared by all objects of the class. A class variable might be used to define the default value of an instance variable, for example, and would probably also be defined as final, too. They are also used to contain dynamic information that is shared between all instances of a class. For instance the next account number to be allocated in a bank account class. Care must be taken to ensure that access to shared information, such as this, is synchronized where multiple threads could be involved. Class variables are also used to give names to application-wide values or objects since they may be accessed directly via their containing class name rather than an instance of the class.</span></pre><p><br></p><pre><b>String -</b>&nbsp;<span style=\"line-height: 1.5;\">An instance of the String class. Strings consist of zero or more Unicode characters, and they are immutable, once created. A literal string is written between a pair of string delimiters (\"), as in</span></pre><pre>\"hello, world\"</pre><p><br></p><pre><b>Sub Class -</b>&nbsp;<span style=\"line-height: 1.5;\">A class that extends its super class. A sub class inherits all of the members of its super class. All Java classes are sub classes of the Object class, which is at the root of the inheritance hierarchy. See sub type</span></pre><p><br></p><pre><b>Subordinate Inner Class -</b>&nbsp;<span style=\"line-height: 1.5;\">An inner class that performs well-defined subordinate tasks on behalf of its enclosing class.</span></pre><p><br></p><pre><b>Sub Type -</b>&nbsp;<span style=\"line-height: 1.5;\">A type with a parent super type. The sub-type/super-type relationship is more general than the sub-class/super-class relationship. A class that implements an interface is a sub type of the interface. An interface that extends another interface is also a sub type.</span></pre><p><br></p><pre><b>Super Class -</b>&nbsp;<span style=\"line-height: 1.5;\">A class that is extended by one or more sub classes. All Java classes have the Object class as a super class. See super type.</span></pre><p><br></p><pre><b>Super Type -</b>&nbsp;<span style=\"line-height: 1.5;\">A type with a child sub type. The sub-type/super-type relationship is more general than the sub-class/super-class relationship. An interface that is implemented by a class is a super type of the class. An interface that is extended by another interface is also a super type.</span></pre><p><br></p><pre><b>Switch Statement -</b>&nbsp;<span style=\"line-height: 1.5;\">A selection statement in which the value of an arithmetic expression {expression!arithmetic} is compared for a match against different case labels. If no match is found, the optional default label is selected For instance</span></pre><pre>switch(choice){</pre><pre>&nbsp; &nbsp; &nbsp;case 'q':</pre><pre>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;quit();</pre><pre>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;break;</pre><pre>&nbsp; &nbsp; &nbsp;case 'h':</pre><pre>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;help();</pre><pre>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;break;</pre><pre>&nbsp; &nbsp; &nbsp;default:</pre><pre>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;System.out.println(\"Unknown command: \"+choice);</pre><pre>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;break;</pre><pre>}</pre><p><br></p><pre><b>Syntax Error -</b>&nbsp;<span style=\"line-height: 1.5;\">An error detected by the compiler during its parsing of a program. Syntax errors usually result from mis-ordering symbols within expressions and statements. Missing curly brackets and semicolons are common examples of syntax errors.</span></pre><p><br></p><pre><b>Toggle -</b>&nbsp;<span style=\"line-height: 1.5;\">To alternate between two values, such as true and false, on and off, or 1 and 0.</span></pre><p><br></p><pre><b>Top Level Class -</b>&nbsp;<span style=\"line-height: 1.5;\">A class defined either at the outermost level of a package or a static nested class.</span></pre><p><br></p><pre><b>Try Statement -</b>&nbsp;<span style=\"line-height: 1.5;\">The try statement acts as an exception handler - a place where exception objects are caught and dealt with. In its most general form, it consists of a try clause, one or more catch clauses and a finally clause.</span></pre><pre>try{</pre><pre>&nbsp; &nbsp; statement;</pre><pre>}</pre><pre>catch(Exception e){</pre><pre>&nbsp; &nbsp; statement;</pre><pre>}</pre><pre>finally{</pre><pre>&nbsp; &nbsp; statement;</pre><pre>}</pre><pre>Either of the catch clause and finally clause may be omitted, but not both.</pre><p><br></p><pre><b>Uninitialized Variable -</b>&nbsp;<span style=\"line-height: 1.5;\">A local variable that been declared, but has had no value assigned to it. The compiler will warn of variables which are used before being initialized.</span></pre><p><br></p><pre><b>Variable Declaration -</b>&nbsp;<span style=\"line-height: 1.5;\">The association of a variable with a particular type. It is important to make a distinction between the declaration of variables of primitive types and those of class types. A variable of primitive type acts as a container for a single value of its declared type. Declaration of a variable of a class type does not automatically cause an object of that type to be constructed and, by default, the variable will contain the value null. A variable of a class type acts as a holder for a reference to an object that is compatible with the variable's class type. Java's rules of polymorphism allow a variable of a class type to hold a reference to any object of its declared type or any of its sub types. A variable with a declared type of Object, therefore, may hold a reference to an object of any class, therefore.</span></pre><p><br></p><pre><b>While Loop -</b>&nbsp;<span style=\"line-height: 1.5;\">One of Java's three control structures used for looping. The other two are the do loop and for loop. A while loop consists of a boolean expression and a loop body. The condition is tested before the loop body is entered for the first time and re-tested each time the end of the body is completed. The loop terminates when the condition gives the value false. The statements in the loop body might be executed zero or more times.</span></pre><p><br></p><pre><b>White Space -</b>&nbsp;<span style=\"line-height: 1.5;\">Characters used to create visual spacing within a program. White spaces include space, tab, carriage return and line feed characters.</span></pre><p><br></p><pre><b>Zip File -</b>&nbsp;<span style=\"line-height: 1.5;\">A file used to store compressed versions of files. In connection with Java bytecode files, these have largely been superseded by Java Archive (JAR) files.</span></pre>"
-        },
-        {
-          "_inherit": "social-buttons2",
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "36px",
-              "color": "#ffffff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-1n",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
-          },
-          "text": "FOLLOW ME",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/KaiN_DY\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>     <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/kainyame/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"http://www.piskelapp.com/user/5408554024435712\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"etl-icon icon-grid mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 15px;\"></span></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"https://github.com/KaiNyame\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-github mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a> "
         }
       ]
     },
@@ -504,6 +479,26 @@
             "Theme"
           ],
           "_name": "content2",
+          "_anchor": "content2-1g",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<br><h4><b>Are Video Games Art?</b></h4><blockquote><p>By: Kai Drayton-Yee</p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">Date: 6/27/17 - 8:50am</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">Essay: Understanding Video Games as a Medium</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">Game(s): Call of Duty:Black Ops (Treyarch, Raven Software, n-Space), &nbsp;</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">Monument Valley (ustwo games limited)</span></p><p><span style=\"line-height: 1.5;\">--</span></p><p><span style=\"line-height: 1.5;\"><br></span><span style=\"line-height: 26px;\">We hear the word ‘art’ all the time. Toddlers use it to describe scribbles with crayon, Baristas use it to describe little foam hearts drawn in your morning latte, and entire industries like museums, film, music and many more take billions of dollars, capitalizing on this idea of ‘art’. The question was posed ‘Are Video Games Art?’ and my immediate question in return was, What is art exactly? How can I say what something is (or isn’t) if I do not understand the definition itself? So I did some research.&nbsp;</span></p><p><span style=\"line-height: 26px;\"><br></span><span style=\"line-height: 26px;\">Roger Ebert, the famous film critic states that Great Art is a process where an artist creates something that “....improves or alters nature”. He explains how this process is shaped by the artist’s vision. I think that important to distinguish the difference between Ebert’s view of Great (uppercase A) Art in almost a philosophical sense and art in the sense of engagement and passion, as I believe they are two separate pastimes. Kellee Santiago co-founder of ThatGameCompany states in her Tedx rebuttal to Ebert that  “...art is the process of deliberately arranging elements in a way that appeals to the senses or emotions”. I think that both of these definitions are not incorrect, as nature already appeals to the senses or emotions as both beautiful and familiar. However, I think that Santiago’s definition is definitely incomplete. Using her definition of art I could state that the viral video “Pen-Pineapple-Apple-Pen” is art (or any other viral video for that matter). It definitely was attention grabbing, and deliberately evokes very strong, almost reflexive emotion every time I hear the dorky intro music. However, I would not consider PPAP “Great Art” in the same way that Ebert talks about Cormac McCarthy’s The Road or Michelangelo’s Sistine Chapel.&nbsp;</span></p><p><span style=\"line-height: 26px;\"><br></span><span style=\"line-height: 26px;\">I think it is important to recognize the depth of the emotion/thought provoked by a piece. A lot of media these days can be categorized as click-bait or shallow sensationalism. All industries are affected by the pressure of commercialization to be “popular” and it pushes many of these (lowercase a) art forms to be very similar in their presentation in order to appeal to a “common sense” of entertainment/understanding. Game developer veteran, Brian Moriarty explains in his 2011 GDC talk how due to the way that the game industry is commercialized, it is next to impossible for games to get away from the expectation for games to present consistent,  reflexive or even ‘shallow’ emotions. He cites Call of Duty:Black Ops in its replayability. People replay the storyline over and over and over again to gain the satisfaction of killing the same guys again and again. I agree with Moriarty in the sense that CoD as a whole isn’t Great Art, due to the fact that it resembles more of the “popular” vision of what art is supposed to be, the Kitsch, or the emotional click-bait of the gaming industry. But that does not mean that all video games fall into this category.</span></p><p><span style=\"line-height: 26px;\"><br></span><span style=\"line-height: 26px;\">A game that I think falls into a category that resembles Great Art is Monument Valley. Mechanics wise it is a 3d puzzle game where the player solves movement puzzles using the terrain of the level. It is possible for someone to play through this game just to solve these puzzles and not recognize the same aspects of Art that I see, but not all Art is viewed as such by everyone. Monument Valley resembles art due to the overall emotional impact it has on me as I play through the levels. While I did enjoy the mental challenges of the puzzle mechanics, I found myself carefully reading through text during cutscenes, looking closely at the characters and environment, and pondering the emotional concepts that the game as a whole evoked. As the character searched this complex but lonely world, I not only wanted to understand the storyline to know what came next, but also in order to experience the emotions of the main character as she wanders and evolves throughout the levels. The actual amount of time it would take me to solved an individual level (mechanically) would probably only be about 45-120 seconds, but each level ached to be explored and experienced, and I spend a good 5-6 minutes on each level, sometimes taking a few minutes to just stare and experience the feel of each level. During these times, I wasn’t looking at the puzzles critically in order to solve them, I wasn’t asking “what happens next?” in the story, I was just experiencing a moment where the game let me sit and ponder the game as a whole.</span></p><p><span style=\"line-height: 26px;\"><br></span><span style=\"line-height: 26px;\">&nbsp;I’m not going to make the sweeping statement that “all games are Art” in the same way that Ebert would never state that “all film is Art”. Games are a medium, there are commercial, un Artistic, or click-bait games, and then there are games that evoke thought and rise to the level of Great Art. Everyone experiences emotion a little differently. Games that I see as Art are sometimes overlooked by other gamers, and I’m sure I’ve definitely failed to see the Art in games that others enjoy. But, when we look at  games as a whole, most gamers can comfortably state that it is possible for games to deeply move or inspire them. If we refine Santiago’s definition of Art to be “... the process of deliberately arranging elements in a way that evokes powerful emotions/sensations”, then I will state that there are video games that are Art, but not all video games reach that level.</span></p><p><span style=\"line-height: 26px;\"><br></span><span style=\"line-height: 26px;\">--</span></p><p><span style=\"line-height: 26px;\">Sources:</span></p><p><span style=\"line-height: 26px;\">Roger Ebert: Why Videogames Can Never Be Art:</span></p><p><span style=\"line-height: 26px;\">http://www.rogerebert.com/rogers-journal/video-games-can-never-be-art</span></p><p><span style=\"line-height: 26px;\">Kellee Santiago: Video Games Are Art, What’s Next (Rebuttal- Ebert)</span></p><p><span style=\"line-height: 26px;\">https://www.youtube.com/watch?v=6GjKCnPQlSw</span></p><p><span style=\"line-height: 26px;\">Brian Moriarty: An Apology for Roger Ebert (Defense- Ebert)</span></p><p><span style=\"line-height: 26px;\">http://www.ludix.com/moriarty/apology.html</span></p><p><span style=\"line-height: 26px;\">Wikipedia: Defining Kitsch  (Clarification- Moriarty)</span></p><p><span style=\"line-height: 26px; font-size: 1.09rem;\">https://en.wikipedia.org/wiki/Kitsch_movement</span></p></blockquote>",
+          "_styles": {
+            "DIV": {
+              "font-size": "17px",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
           "_anchor": "content2-c",
           "_params": {
             "paddingTop": 1,
@@ -511,37 +506,6 @@
             "bgColor": "#fff"
           },
           "text": "<blockquote><h4>(Not Just an) Everyday Shooter</h4><p>By: Kai Drayton-Yee </p><p>Date: 2/27/17 - 7:37pm</p><p>Essay: How Audio Affects Gameplay</p><p>Game(s): Everyday Shooter (Mak)</p><p><br></p><p>--</p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;Jonathan Mak’s Everyday Shooter won the first place prize for design and innovation and excellence in audio at the 2007 Independent Games Festival Awards. His sizeable reputation as both an artist and a game designer become apparent as soon as one hits the play button. From the beginning, it is blatantly obvious how much thought Mak has put into the design of his game. To the untrained eye (and ear!), the game play runs almost unnoticably smooth, and the game engages the player and keeps them engaged with its shifting guitar music, and bright colors. The very deliberate way that Mak incorporated his guitar music into Everyday Shooter excites players, and makes them curious to try new things.</p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;Surprisingly, Mak’s choice in music stayed clear and simplistic throughout all of his levels rather than changing with each level. Mak’s deliberate use of only guitar sounds kept the background uncluttered and original. He uses guitar riffs as the background music which, is notable due to the electric guitar not usually being an instrument that plays without accompaniment.  The repetitive riffs are quite the change in pace from the expected fast multi-part rythm-based background music that other games of this nature tend to have. This stark difference makes Everyday Shooter stand out musically. Another interesting fact was that Mak himself did the soundtrack. He channeled his interest and skills as a guitarist into his game. It begs the question, did Mak create the game to highlight his guitar skills, or were his guitar skills just used as a platform in which to enhance his game idea?</p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;The basic gameplay of Everyday Shooter is (as referenced in the title) a shooter/bullet-hell style game. This particular genre is generally not hard to figure out in the early levels (literally shoot EVERYTHING), but definitely can ramp-up difficulty wise as the levels progress. While we know that the background stayed simple and intriguing, The most unique musical aspect of Everyday Shooter is the sound effects. Every time an enemy is hit, a synth-guitar sound is played. In theory this might get lost in the guitar-riff-background-music, but in practice, it does something entirely different. In most of these shooter games, players are used to hearing the obvious correlation between enemy deaths and shooter sounds. Everyday Shooter does not fall into this stereotype. Instead, the synth sounds of the enemies being hit becomes a subconscious type of feedback. This type of feedback might not be obvious (or even noticed at all) for the first little while of gameplay. The player kills enemies, and their brain makes a subconscious connection between the extra note played in the guitar riff.&nbsp;</p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;Instead of the sound effect fading into the background like expected, the player slowly notices the change in the pattern of the guitar riff every time they hit an enemy. This actually brings the background music to the players attention, subtly highlighting the unique auditory choices that Mak made in the guitar-riff themed music. Everyday Shooter uses each portion of its audio to accentuate the others. Mak’s Everyday Shooter won its awards not just for making elegant, yet simple music choices, but for its successful attempt in creating a unique sound that integrates the gameplay and the audio together to create a single cohesive piece.</p><p><br></p></blockquote>"
-        },
-        {
-          "_inherit": "social-buttons2",
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "36px",
-              "color": "#ffffff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-1p",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
-          },
-          "text": "FOLLOW ME",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/KaiN_DY\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>     <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/kainyame/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"http://www.piskelapp.com/user/5408554024435712\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"etl-icon icon-grid mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 15px;\"></span></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"https://github.com/KaiNyame\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-github mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a> "
         }
       ]
     },
@@ -689,37 +653,6 @@
           "title": "SOLID COLOR INTRO WITH IMAGE",
           "text": "Kai N. Drayton-Yee is a human. More info on that soon.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
-        {
-          "_inherit": "social-buttons2",
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "36px",
-              "color": "#ffffff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-1o",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
-          },
-          "text": "FOLLOW ME",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/KaiN_DY\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>     <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/kainyame/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"http://www.piskelapp.com/user/5408554024435712\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"etl-icon icon-grid mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 15px;\"></span></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"https://github.com/KaiNyame\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-github mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a> "
         }
       ]
     },
@@ -854,7 +787,7 @@
               "name": "paperclip",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://papaly.com/kainyame",
+              "link": "https://del.icio.us/kainyame",
               "size": 0,
               "color": "#fff",
               "newWindow": true
@@ -943,37 +876,6 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_inherit": "social-buttons2",
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "36px",
-              "color": "#ffffff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-1q",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
-          },
-          "text": "FOLLOW ME",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/KaiN_DY\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>     <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/kainyame/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"http://www.piskelapp.com/user/5408554024435712\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"etl-icon icon-grid mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 15px;\"></span></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"https://github.com/KaiNyame\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-github mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a> "
         }
       ]
     },
@@ -1038,7 +940,7 @@
             "showTitle": false,
             "showText": false
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a> ",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">HOME</a>",
           "title": "TRENDY WEBSITE BLOCKS",
           "text": "Cut down the development time with drag-and-drop website builder."
         },
@@ -1059,47 +961,8 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "<a href=\"pastprojects.html\">←</a> Current Projects <a href=\"futureprojects.html\">→</a>",
-          "meta": "What I'm working on presently.&nbsp;"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-1l",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<blockquote><p><b>Zoram's Journey (March 2017)</b></p><p>--</p><p>More Info Coming Soon</p></blockquote>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-1i",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<blockquote><p><b>SSSS (March 2017)</b></p><p>--</p><p>&nbsp;The Super Secret Spy School is a text based action game where you hack alongside your snarky assistant as you protect the world from evil.</p></blockquote>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-1h",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<blockquote><p><b>LeWiz (March 2017)</b></p><p>--</p><p>Originally an asignment from GameHeads, LeWiz is a fast-paced and immersive RPG where</p><p><br></p><p>Gameplay Demo:<a href=\"http://tinyurl.com/lewiz-game-demo\" target=\"_blank\"> http://tinyurl.com/lewiz-game-demo</a></p></blockquote>"
+          "title": "Current Projects",
+          "meta": "What I'm working on presently."
         },
         {
           "_tags": [
@@ -1112,7 +975,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p><b>Dragon Crash (January 2017)</b></p><p>--</p><p>In collaboration with UCSC, DragonCrash is a B.A.T.H. game where you battle other dragons and collect gems in this epic arena to become the champion!</p><p><br></p><p>DragonCrash Website: &nbsp;<a href=\"http://dragoncrash.iversen.site/\" target=\"_blank\">http://dragoncrash.iversen.site/</a></p></blockquote>"
+          "text": "<blockquote><p>Dragon Crash (January 2017)</p><p>--</p><p>More Info Coming Soon</p></blockquote>"
         },
         {
           "_tags": [
@@ -1125,7 +988,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p><b>Oxygen ( December 2016)</b></p><p>--</p><p>Created during the GameHeads GameJam, Oxygen is an adventure-platformer. The player traverses a strage planet in order to find parts for their broken ship!&nbsp;</p><p><br></p><p>Gameplay Demo: <a href=\"http://tinyurl.com/oxygen-game-demo\" target=\"_blank\">http://tinyurl.com/oxygen-game-demo</a></p></blockquote>"
+          "text": "<blockquote><p>Oxygen ( December 2016)</p><p>--</p><p>More Info Coming Soon</p></blockquote>"
         },
         {
           "_tags": [
@@ -1138,38 +1001,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p><b>LightIsland (September 2016)</b></p><p>--</p><p>Created in Code510, LightIsland is an adventure RPG where you play as the flamingo Jurkin as he explores a brand new world and has lots of fun with his strange band of friends.</p><p><br></p></blockquote>"
-        },
-        {
-          "_inherit": "social-buttons2",
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "36px",
-              "color": "#ffffff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-1r",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
-          },
-          "text": "FOLLOW ME",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/KaiN_DY\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>     <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/kainyame/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"http://www.piskelapp.com/user/5408554024435712\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"etl-icon icon-grid mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 15px;\"></span></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"https://github.com/KaiNyame\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-github mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a> "
+          "text": "<blockquote><p>LightIsland (September 2016)</p><p>--</p><p>More Info Coming Soon</p></blockquote>"
         }
       ]
     },
@@ -1255,7 +1087,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Past Projects <a href=\"currentprojects.html\">→</a>",
+          "title": "Past Projects",
           "meta": "Projects I've worked on."
         },
         {
@@ -1269,51 +1101,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p><b>CORE (July 2016)</b></p><p>--</p><p>Designed and shipped with the help of the MakeSchool, CORE is a fast-pased puzzle game where you hack your way into the top secred database before the time runs out! It is currently out on the AppStore for IOS.</p><p><br></p><p>Gameplay Demo:&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\"><a href=\"http://tinyurl.com/core-game-kai-demo\" target=\"_blank\">http://tinyurl.com/core-game-kai-demo</a></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Get the App Here: <a href=\"http:tinyurl.com/core-game-kai\" target=\"_blank\">http:tinyurl.com/core-game-kai</a></span></p></blockquote>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-1k",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<blockquote><p><b>EldersTale510 (September 2014)</b></p><p>--</p><p>Originally created at Code510, EldersTale510 is a fun and engaging adventure RPG where you explore a new world and defeat your enemies! It is free to play online.</p><p><br></p><p>EldersTale510 Website: <a href=\"http://tinyurl.com/elderstale510website\" target=\"_blank\">http://tinyurl.com/elderstale510website</a></p><p>Play EldersTale510: <a href=\"http://tinyurl.com/elderstale510playgame\" target=\"_blank\">http://tinyurl.com/elderstale510playgame</a></p></blockquote>"
-        },
-        {
-          "_inherit": "social-buttons2",
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "36px",
-              "color": "#ffffff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-1s",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
-          },
-          "text": "FOLLOW ME",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/KaiN_DY\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>     <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/kainyame/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"http://www.piskelapp.com/user/5408554024435712\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"etl-icon icon-grid mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 15px;\"></span></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"https://github.com/KaiNyame\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-github mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a> "
+          "text": "<blockquote><p>CORE (July 2016)</p><p>--</p><p>More Info Coming Soon</p></blockquote>"
         }
       ]
     },
@@ -1399,7 +1187,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "<a href=\"currentprojects.html\">←</a>&nbsp;Future Projects",
+          "title": "Future Projects",
           "meta": "Things in the near future."
         },
         {
@@ -1413,7 +1201,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>Treasure Hunt (???)</p><p>--</p><p>More Info Coming Soon</p></blockquote>"
+          "text": "<blockquote><p>Head (???)</p><p>--</p><p>More Info Coming Soon</p></blockquote>"
         },
         {
           "_tags": [
@@ -1440,37 +1228,6 @@
             "bgColor": "#fff"
           },
           "text": "<blockquote><p>?? (???)</p><p>--</p><p>More Info Coming Soon</p></blockquote>"
-        },
-        {
-          "_inherit": "social-buttons2",
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "36px",
-              "color": "#ffffff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-1t",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
-          },
-          "text": "FOLLOW ME",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/KaiN_DY\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>     <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/kainyame/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"http://www.piskelapp.com/user/5408554024435712\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"etl-icon icon-grid mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 15px;\"></span></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"https://github.com/KaiNyame\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-github mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a> "
         }
       ]
     }

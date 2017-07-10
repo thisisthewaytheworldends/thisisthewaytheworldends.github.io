@@ -430,6 +430,12 @@ h6,
 #msg-box2-x .mbr-section-subtitle {
   color: #a0a0a0;
 }
+#msg-box2-x .mbr-header .mbr-header__text {
+  color: #252525;
+}
+#msg-box2-x .mbr-article {
+  color: #252525;
+}
 #features7-4 .card-subtitle {
   color: #bcbcbc;
 }
@@ -469,14 +475,7 @@ h6,
 #content7-1 P {
   font-size: 15px;
 }
-#social-buttons4-1n .mbr-section-title,
-#social-buttons4-1n .btn-social {
-  color: #fff;
-}
-#social-buttons4-1n .mbr-section-title {
-  font-size: 36px;
-  color: #ffffff;
-}
+
 #content1-8 H2 {
   font-size: 36px;
   color: #ffffff;
@@ -494,13 +493,9 @@ h6,
 #header3-9 .mbr-section-subtitle {
   text-align: center;
 }
-#social-buttons4-1p .mbr-section-title,
-#social-buttons4-1p .btn-social {
-  color: #fff;
-}
-#social-buttons4-1p .mbr-section-title {
-  font-size: 36px;
-  color: #ffffff;
+#content2-1g DIV {
+  font-size: 17px;
+  font-family: 'Titillium Web', sans-serif;
 }
 
 #content1-i H2 {
@@ -523,14 +518,6 @@ h6,
 #msg-box5-1e P {
   text-align: left;
   font-family: 'Titillium Web', sans-serif;
-}
-#social-buttons4-1o .mbr-section-title,
-#social-buttons4-1o .btn-social {
-  color: #fff;
-}
-#social-buttons4-1o .mbr-section-title {
-  font-size: 36px;
-  color: #ffffff;
 }
 #content1-g H2 {
   font-size: 36px;
@@ -556,14 +543,6 @@ h6,
   background-color: #553982;
   border-color: #553982;
 }
-#social-buttons4-1q .mbr-section-title,
-#social-buttons4-1q .btn-social {
-  color: #fff;
-}
-#social-buttons4-1q .mbr-section-title {
-  font-size: 36px;
-  color: #ffffff;
-}
 #content1-k H2 {
   font-size: 36px;
   color: #ffffff;
@@ -580,14 +559,6 @@ h6,
 #header3-t .mbr-section-title,
 #header3-t .mbr-section-subtitle {
   text-align: center;
-}
-#social-buttons4-1r .mbr-section-title,
-#social-buttons4-1r .btn-social {
-  color: #fff;
-}
-#social-buttons4-1r .mbr-section-title {
-  font-size: 36px;
-  color: #ffffff;
 }
 #content1-15 H2 {
   font-size: 36px;
@@ -606,14 +577,6 @@ h6,
 #header3-17 .mbr-section-subtitle {
   text-align: center;
 }
-#social-buttons4-1s .mbr-section-title,
-#social-buttons4-1s .btn-social {
-  color: #fff;
-}
-#social-buttons4-1s .mbr-section-title {
-  font-size: 36px;
-  color: #ffffff;
-}
 #content1-12 H2 {
   font-size: 36px;
   color: #ffffff;
@@ -630,12 +593,4 @@ h6,
 #header3-19 .mbr-section-title,
 #header3-19 .mbr-section-subtitle {
   text-align: center;
-}
-#social-buttons4-1t .mbr-section-title,
-#social-buttons4-1t .btn-social {
-  color: #fff;
-}
-#social-buttons4-1t .mbr-section-title {
-  font-size: 36px;
-  color: #ffffff;
 }
